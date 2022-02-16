@@ -1,2 +1,2 @@
-# ICT_bot
-ICT Academy o'quv markaz boti
+# Telegram_bot_ict
+ ICT telegram bot
