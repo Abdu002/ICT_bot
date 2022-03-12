@@ -5,3 +5,6 @@ from . import Mobile
 from . import Desktop
 from . import Computer_graphics
 from . import Computer_science
+from . import web_mentor
+from . import Mobile_mentor
+from . import Deskop_mentor
